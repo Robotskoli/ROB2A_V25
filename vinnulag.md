@@ -1,4 +1,4 @@
-### Vísindaleg aðfrð
+### Vísindaleg aðferð
 Eitt af þeim tólum sem við höfum er vísindaleg aðferð einfölduð hér:
 1. Verkefnið skilgreint (hvað er vandamálið).
 * Teikna upp þrautina/vandamálið eða lýsa því og átta sig á því.
